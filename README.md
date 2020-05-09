@@ -1,3 +1,5 @@
+\*\*But first, we'll clone the repositiry
+
 <dl>
   <dt>First</dt>
   <dd>npm i</dd>
