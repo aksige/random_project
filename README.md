@@ -3,5 +3,5 @@
   <dd>npm i</dd>
 
   <dt>Second</dt>
-  <dd>gulp serve<em>tags</em>.</dd>
+  <dd>gulp serve</dd>
 </dl>
